@@ -1,0 +1,13 @@
+{
+  "name": "afreeca-recorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "1.0.2",
+    "node-fetch": "2.6.12"
+  }
+}
