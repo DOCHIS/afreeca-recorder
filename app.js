@@ -38,8 +38,7 @@ class afreecaRecorder {
      *  - 방송정보와 녹화정보를 수집합니다.
      *
      * 파라미터 안내
-     * channelId = 녹화할 방송국의 ID (지정하지 않으면 기본값으로 설정됨)
-     *  - 기본값 : 하나나 방송국
+     * channelId = 녹화할 방송국의 ID
      * recordQuality = 녹화 화질 (기본값은 original)
      *  - 지원되는 값 : sd (worst), hd, original (best)
      * 파라미터는 아래 실행 방법처럼 실행 시 입력하면 됨
